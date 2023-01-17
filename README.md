@@ -42,6 +42,7 @@ to the script
 And glados.sh will parse each line in the text file and spit out a corresponding .wav file.
 
 5 i) Finalizing, making it a command that you can run anywhere
+
 5 ii) sudo mv glados /usr/local/bin
 
 Now when you have the glados file in /usr/local/bin/glados you can run the glados command
